@@ -1,5 +1,6 @@
 # Welcome to Tolia's GitHub Page!
 
+[![Tolia-GH's github stats](https://github-readme-stats.vercel.app/api?username=Tolia-GH)](https://github.com/Tolia-GH/github-readme-stats)
 <!--
 **Tolia-GH/Tolia-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
