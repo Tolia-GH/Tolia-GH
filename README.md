@@ -1,9 +1,9 @@
 # Welcome to Tolia's GitHub Page!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Tolia-GH/Tolia-GH">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Tolia-GH/Tolia-GH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=" />
 </a>
 
