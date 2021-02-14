@@ -1,6 +1,11 @@
 # Welcome to Tolia's GitHub Page!
 
-[![Tolia-GH's github stats](https://github-readme-stats.vercel.app/api?username=Tolia-GH)](https://github.com/Tolia-GH/github-readme-stats)
+|我的GitHub贡献|我的常用语言|
+|-|-|
+|![Github stats](https://github-readme-stats.vercel.app/api?username=Tolia-GH&theme=highcontrast&show_icons=true&count_private=true)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH)|
+
+
+
 <!--
 **Tolia-GH/Tolia-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/yourusername/repo-name)
 -->
