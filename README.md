@@ -1,6 +1,7 @@
 # Welcome to Tolia's GitHub Page!
 
 ### About me
+A student studying Program Engineering at ITMO University.
 ### My Repos
 - **Repos under Maintenance**
   - [Online Judge](https://github.com/Tolia-GH/Online_Judge) - Place where I put all my solutions of online judge.
