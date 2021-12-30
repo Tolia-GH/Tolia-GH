@@ -13,7 +13,7 @@
 ## About me
 A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
-## My Repos
+## Repos Guide
 
 ### Repos under maintenance
 - [Online Judge](https://github.com/Tolia-GH/Online_Judge) 
@@ -31,7 +31,12 @@ A poor student trying his best to study Program Engineering at [ITMO University]
 - [RTF-IM(Unopened)](https://github.com/Tolia-GH/RTF-IM) - *A IM program which supports markdown and LaTeX formulars*
 - [Elf Fighting Game(Unopened)](https://github.com/Tolia-GH/Elf-Fighting-Game) - *A text battle game for OOD practice*
 
+### Other Repos
+
 ## Contact me
+
+- E-Mail
+  - QQ Mail: [2398768715@qq.com](2398768715@qq.com)
 
 
 
