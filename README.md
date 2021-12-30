@@ -1,10 +1,12 @@
 # Welcome to Tolia's GitHub Page!
 
-- Repositories under Maintenance:
+### About me
+### My Repos
+- **Repos under Maintenance**
   - [Online Judge](https://github.com/Tolia-GH/Online_Judge) - Place where I put all my solutions of online judge.
   - [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) - Wiki organized with classmates in the preparatory course of Saint-Petersburg Mining University.
-- Repositories under development
-- Repositories in planning
+- **Repos under development**
+- **Repos in planning**
 
 <a href="https://github.com/Tolia-GH/Tolia-GH">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
