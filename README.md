@@ -16,10 +16,8 @@ A poor student trying his best to study Program Engineering at [ITMO University]
 ## Repos Guide
 
 ### Repos under maintenance
-- [Online Judge](https://github.com/Tolia-GH/Online_Judge) 
-  *Place where I put all my solutions of online judge*
-- [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) 
-  *Wiki organized with my classmates in the preparatory course of Saint-Petersburg Mining University*
+- [Online Judge](https://github.com/Tolia-GH/Online_Judge) - *Place where I put all my solutions of online judge*
+- [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) - *Wiki organized with my classmates in the preparatory course of Saint-Petersburg Mining University*
 
 ### Repos under development
 - [ITMO Lab Works(Open when finish)](https://github.com/ITMO-Software-Engineering/ITMO-Lab-Works) - *All the lab works about programming in ITMO University*
