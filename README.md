@@ -1,13 +1,23 @@
 # Welcome to Tolia's GitHub Page!
 
-### About me
-A student studying Program Engineering at ITMO University.
-### My Repos
-- **Repos under Maintenance**
-  - [Online Judge](https://github.com/Tolia-GH/Online_Judge) - Place where I put all my solutions of online judge.
-  - [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) - Wiki organized with classmates in the preparatory course of Saint-Petersburg Mining University.
-- **Repos under development**
-- **Repos in planning**
+## About me
+A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
+
+## My Repos
+
+**Repos under Maintenance**
+- [Online Judge](https://github.com/Tolia-GH/Online_Judge) 
+  *Place where I put all my solutions of online judge*
+- [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) 
+  *Wiki organized with my classmates in the preparatory course of Saint-Petersburg Mining University*
+
+**Repos under development**
+- 
+
+**Repos in planning**
+
+## Contact me
+
 
 <a href="https://github.com/Tolia-GH/Tolia-GH">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
