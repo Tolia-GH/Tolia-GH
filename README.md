@@ -35,9 +35,11 @@ A poor student trying his best to study Program Engineering at [ITMO University]
 
 ## Contact me
 
-- E-Mail
-  - QQ Mail: [2398768715@qq.com](2398768715@qq.com)
-
+### E-Mail
+- QQ Mail: [2398768715@qq.com]()
+### Instant Message(IM)
+- Wechat: [Tolia5479]()
+- QQ: [2398768715]()
 
 
 
