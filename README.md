@@ -5,13 +5,13 @@ A poor student trying his best to study Program Engineering at [ITMO University]
 
 ## My Repos
 
-**Repos under maintenance**
+### Repos under maintenance**
 - [Online Judge](https://github.com/Tolia-GH/Online_Judge) 
   *Place where I put all my solutions of online judge*
 - [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) 
   *Wiki organized with my classmates in the preparatory course of Saint-Petersburg Mining University*
 
-**Repos under development**
+### Repos under development**
 - [ITMO Lab Works(Open when finish)](https://github.com/ITMO-Software-Engineering/ITMO-Lab-Works)
   *All the lab works about programming in ITMO University*
 - [Basic Algorithm](https://github.com/Tolia-GH/Basic_Algorithm)
@@ -19,7 +19,7 @@ A poor student trying his best to study Program Engineering at [ITMO University]
 - [Word Dictation Program](https://github.com/Tolia-GH/Word_Dictation_Program)
   *A Program for word dictation*
 
-**Repos in planning**
+### Repos in planning**
 - [WiKiP(Unopened)](https://github.com/Tolia-GH/WiKiP)
   *A Wiki Platform where users can build different kinds of Wiki using markdown and LaTeX formulars*
 - [RTF-IM(Unopened)](https://github.com/Tolia-GH/RTF-IM)
