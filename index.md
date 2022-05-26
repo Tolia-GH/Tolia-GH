@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Welcome to Tolia's GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/Tolia-GH/Tolia-GH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://github.com/Tolia-GH/Tolia-GH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://github.com/Tolia-GH/Tolia-GH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=" />
+</a>
 
-### Markdown
+<embed type="application/x-shockwave-flash" src="hamster.swf" width="250" height="210" id="flashID" name="flashID" bgcolor="#FFFFFF" quality="high" flashvars="up_backgroundColor=FFFFFF" wmode="opaque" allowscriptaccess="always">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me
+A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
-```markdown
-Syntax highlighted code block
+## Repos Guide
 
-# Header 1
-## Header 2
-### Header 3
+### Repos under maintenance
+- [Online Judge](https://github.com/Tolia-GH/Online_Judge) - *Place where I put all my solutions of online judge*
+- [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) - *Wiki organized with my classmates in the preparatory course of Saint-Petersburg Mining University*
 
-- Bulleted
-- List
+### Repos under development
+- [Semester-1(Open when finish)](https://github.com/ITMO-Software-Engineering/ITMO-Lab-Works) - *All the lab works about programming in ITMO University*
+- [Basic Algorithm](https://github.com/Tolia-GH/Basic_Algorithm) - *Collection of basic algorithm*
+- [Word Dictation Program](https://github.com/Tolia-GH/Word_Dictation_Program) - *A Program for word dictation*
 
-1. Numbered
-2. List
+### Repos in planning
+- [WiKiP(Unopened)](https://github.com/Tolia-GH/WiKiP) - *A Wiki Platform where users can build different kinds of Wiki using markdown and LaTeX formulars*
+- [RTF-IM(Unopened)](https://github.com/Tolia-GH/RTF-IM) - *A IM program which supports markdown and LaTeX formulars*
+- [Elf Fighting Game(Unopened)](https://github.com/Tolia-GH/Elf-Fighting-Game) - *A text battle game for OOD practice*
 
-**Bold** and _Italic_ and `Code` text
+### Other Repos
 
-[Link](url) and ![Image](src)
-```
+## Contact me
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### E-Mail
+- QQ Mail: [2398768715@qq.com]()
+### Instant Message(IM)
+- Wechat: [Tolia5479]()
+- QQ: [2398768715]()
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tolia-GH/Tolia-GH/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<!--
+**Tolia-GH/Tolia-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
