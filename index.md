@@ -1,14 +1,13 @@
 # Welcome to Tolia's GitHub Page!
 
-<a href="https://github.com/Tolia-GH/Tolia-GH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/Tolia-GH/Tolia-GH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=" />
-</a>
-
-<embed type="application/x-shockwave-flash" src="hamster.swf" width="250" height="210" id="flashID" name="flashID" bgcolor="#FFFFFF" quality="high" flashvars="up_backgroundColor=FFFFFF" wmode="opaque" allowscriptaccess="always">
+<center>
+  <a href="https://github.com/Tolia-GH/Tolia-GH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Tolia-GH/Tolia-GH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=" />
+  </a>
+</center>
 
 ## About me
 A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
