@@ -1,4 +1,5 @@
-# Welcome to Tolia's GitHub Page!
+## About me
+A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
 <center>
   <a href="https://github.com/Tolia-GH/Tolia-GH">
@@ -8,9 +9,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=" />
   </a>
 </center>
-
-## About me
-A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
 ## Repos Guide
 
