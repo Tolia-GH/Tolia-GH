@@ -6,7 +6,7 @@ A poor student trying his best to study Program Engineering at [ITMO University]
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
   </a>
   <a href="https://github.com/Tolia-GH/Tolia-GH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=compact" />
   </a>
 </center>
 
