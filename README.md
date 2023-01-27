@@ -11,32 +11,12 @@
 ## About me
 A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
-## Repos Guide
-
-### Repos under maintenance
-- [Online Judge](https://github.com/Tolia-GH/Online_Judge) - *Place where I put all my solutions of online judge*
-- [Natural Science Wiki](https://github.com/ITMO-Computer-Science-Group/Natural-Sciences-Wiki) - *Wiki organized with my classmates in the preparatory course of Saint-Petersburg Mining University*
-
-### Repos under development
-- [Semester-1(Open when finish)](https://github.com/ITMO-Software-Engineering/ITMO-Lab-Works) - *All the lab works about programming in ITMO University*
-- [Basic Algorithm](https://github.com/Tolia-GH/Basic_Algorithm) - *Collection of basic algorithm*
-- [Word Dictation Program](https://github.com/Tolia-GH/Word_Dictation_Program) - *A Program for word dictation*
-
-### Repos in planning
-- [WiKiP(Unopened)](https://github.com/Tolia-GH/WiKiP) - *A Wiki Platform where users can build different kinds of Wiki using markdown and LaTeX formulars*
-- [RTF-IM(Unopened)](https://github.com/Tolia-GH/RTF-IM) - *A IM program which supports markdown and LaTeX formulars*
-- [Elf Fighting Game(Unopened)](https://github.com/Tolia-GH/Elf-Fighting-Game) - *A text battle game for OOD practice*
-
 ### Other Repos
 
 ## Contact me
 
 ### E-Mail
-- QQ Mail: [2398768715@qq.com]()
-### Instant Message(IM)
-- Wechat: [Tolia5479]()
-- QQ: [2398768715]()
-
+- QQ Mail: [277339858@qq.com]()
 
 
 <!--
