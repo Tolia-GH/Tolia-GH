@@ -11,8 +11,6 @@
 ## About me
 A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
-### Other Repos
-
 ## Contact me
 
 ### E-Mail
