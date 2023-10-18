@@ -11,12 +11,6 @@
 ## About me
 A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
-## Contact me
-
-### E-Mail
-- QQ Mail: [277339858@qq.com]()
-
-
 <!--
 **Tolia-GH/Tolia-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
