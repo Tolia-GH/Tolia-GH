@@ -2,12 +2,21 @@
 A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
 <center>
-  <a href="https://github.com/Tolia-GH/Tolia-GH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/Tolia-GH/Tolia-GH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&theme=&&layout=compact" />
-  </a>
+    <picture>
+      <source
+        srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
+    </picture>
+    <br>
+    <picture>
+        <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6">
+    </picture>
 </center>
 
 ## Repos Guide
