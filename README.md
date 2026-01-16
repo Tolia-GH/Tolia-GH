@@ -1,5 +1,10 @@
 # Welcome to Tolia's GitHub Page!
 
+## About me
+A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
+
+## My Stats
+
 <a href="https://github.com/Tolia-GH">
   <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
@@ -17,9 +22,6 @@
 </a>
 
 <embed type="application/x-shockwave-flash" src="hamster.swf" width="250" height="210" id="flashID" name="flashID" bgcolor="#FFFFFF" quality="high" flashvars="up_backgroundColor=FFFFFF" wmode="opaque" allowscriptaccess="always">
-
-## About me
-A poor student trying his best to study Program Engineering at [ITMO University](https://en.itmo.ru/en/)
 
 <!--
 **Tolia-GH/Tolia-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
