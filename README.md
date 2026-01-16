@@ -1,7 +1,7 @@
 # Welcome to Tolia's GitHub Page!
 
 <a href="https://github.com/Tolia-GH/Tolia-GH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&count_private=true&theme=&hide=stars&include_all_commits=true" />
+  <img align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH" />
 </a>
 
 [![Tolia's GitHub stats](https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH)](https://tolia-github-readme-stats.vercel.app/)
