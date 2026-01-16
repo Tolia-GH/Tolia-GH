@@ -7,10 +7,10 @@
   <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6&layout=compact" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Tolia-GH/ITMO-PE">
   <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=ITMO-PE" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Tolia-GH/ITMO-Labs">
   <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=ITMO-Labs" />
 </a>
 
