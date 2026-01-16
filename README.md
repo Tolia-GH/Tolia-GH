@@ -2,18 +2,26 @@
 
 <center>
     <picture>
-      <source
-        srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
+        <source
+            srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
     </picture>
     <picture>
-        <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6">
+        <source
+            srcset="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6&layout=compact&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6&layout=compact"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6&layout=compact" />
     </picture>
 </center>
 
