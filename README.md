@@ -7,9 +7,6 @@
 </div>
 
 - 🎓 I'm currently studying **Program Engineering** at [ITMO University](https://en.itmo.ru/en/).
-- 🌱 I’m currently learning **Java, Python, C++** and exploring new technologies.
-- 👯 I’m looking to collaborate on student projects and open source.
-- 💬 Ask me about **University life, Coding challenges**.
 
 <h2>📊 My Stats</h2>
 
