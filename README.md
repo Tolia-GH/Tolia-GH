@@ -9,7 +9,7 @@ A poor student trying his best to study Program Engineering at [ITMO University]
   <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Tolia-GH">
-  <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6&layout=compact" />
+  <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=8&layout=compact" />
 </a>
 
 ## My Repos
