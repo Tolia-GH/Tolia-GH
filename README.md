@@ -43,7 +43,6 @@
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Ajson"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Axml"><img alt="XML" src="https://img.shields.io/badge/XML-000000?style=flat&logo=devbox&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Ayaml"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ATolia-GH+UML"><img alt="UML" src="https://img.shields.io/badge/UML-000000?style=flat&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
