@@ -12,16 +12,10 @@
 
 <div align="center">
   <a href="https://github.com/Tolia-GH">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
-      <img height="180" align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
-    </picture>
+    <img height=180 align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/Tolia-GH">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=8&layout=compact&theme=dark">
-      <img height="180" align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=8&layout=compact" />
-    </picture>
+    <img height=180 align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=8&layout=compact" />
   </a>
 </div>
 
