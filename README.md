@@ -12,11 +12,24 @@
       />
       <img align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
     </picture>
-    <br>
     <picture>
         <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6">
     </picture>
 </center>
+
+<a href="https://github.com/Tolia-GH">
+  <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Tolia-GH">
+  <img height=200 align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=ITMO-PE" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=ITMO-Labs" />
+</a>
 
 <embed type="application/x-shockwave-flash" src="hamster.swf" width="250" height="210" id="flashID" name="flashID" bgcolor="#FFFFFF" quality="high" flashvars="up_backgroundColor=FFFFFF" wmode="opaque" allowscriptaccess="always">
 
