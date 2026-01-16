@@ -13,7 +13,7 @@
       <img align="center" src="https://tolia-github-readme-stats.vercel.app/api?username=Tolia-GH&show_icons=true&include_all_commits=true&count_private=true" />
     </picture>
     <picture>
-        <img align="center" src=>
+        <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/top-langs/?username=Tolia-GH&hide=jupyter%20notebook,c,makefile&langs_count=6">
     </picture>
 </center>
 
