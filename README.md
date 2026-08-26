@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+ITMO+University;Program+Engineering+Major;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineering;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🎓 Education
