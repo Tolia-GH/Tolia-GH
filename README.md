@@ -146,7 +146,6 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
-  https://simpleicons.org/icons/googlescholar.svg
   <!-- Example for Email (uncomment and edit if you want to use it)
   <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
