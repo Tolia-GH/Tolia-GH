@@ -6,7 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+ITMO+University;Program+Engineering+Major;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-- 🎓 I'm currently studying **Program Engineering** at [ITMO University](https://en.itmo.ru/en/).
+<h2> 🎓 Education
+
+-  **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
+
+<h2> Work Experience
+
+- **Visit Student** of [Shenzhen Institute of Advanced Technology(SIAT)](https://www.siat.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) 2025-2026
 
 <h2>📊 My Stats</h2>
 
