@@ -10,11 +10,11 @@
 
 - **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
 
-##  Work Experience
+## 💼 Work Experience
 
 - **Visit Student** of [Shenzhen Institute of Advanced Technology(SIAT)](https://www.siat.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) 2025-2026
 
-<h2>📊 My Stats</h2>
+## 📊 My Stats</h2>
 
 <div align="center">
   <a href="https://github.com/Tolia-GH">
