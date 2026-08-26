@@ -10,6 +10,16 @@
 
 - **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
 
+## Academic achievement
+
+**Papers**
+
+- [Чжоу Х. Метод детекции транспортных потоков по нескольким направлениям на перекрёстках на основе глубокого обучения // Научные исследования и разработки 2026: сборник статей VII Международной научно-практической конференции (Пенза, 5 июня 2026 г.) -2026. - С. 130-136](https://elibrary.ru/pusxwx)
+
+**Patents**
+
+- In progress...
+
 ## 💼 Work Experience
 
 - **Visit Student** of [Shenzhen Institute of Advanced Technology(SIAT)](https://www.siat.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) 2025-2026
