@@ -124,6 +124,7 @@
 
 <br/>
 
+<!--
 ## 🏆 Top owned Repos</h2>
 
 <div align="center">
@@ -137,6 +138,7 @@
     <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=CrossroadTrafficFlowDetector" />
   </a>
 </div>
+-->
 
 ## 📫 Find Me At
 
