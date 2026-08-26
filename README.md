@@ -117,6 +117,9 @@
   <a href="https://github.com/Tolia-GH/ITMO-Labs">
     <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=ITMO-Labs" />
   </a>
+  <a href="https://github.com/Tolia-GH/CrossroadTrafficFlowDetector">
+    <img align="center" src="https://tolia-github-readme-stats.vercel.app/api/pin/?username=Tolia-GH&repo=CrossroadTrafficFlowDetector" />
+  </a>
 </div>
 
 <h2>📫 Connect with Me</h2>
