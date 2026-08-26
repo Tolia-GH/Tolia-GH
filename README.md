@@ -1,16 +1,16 @@
 # Hi there, I'm Tolia! 👋
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+ITMO+University;Program+Engineering+Major;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h2> 🎓 Education
+## 🎓 Education
 
--  **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
+- **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
 
-<h2> Work Experience
+##  Work Experience
 
 - **Visit Student** of [Shenzhen Institute of Advanced Technology(SIAT)](https://www.siat.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) 2025-2026
 
@@ -25,9 +25,9 @@
   </a>
 </div>
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack</h2>
 
-  <h3>👨‍💻 Languages</h3>
+### 👨‍💻 Languages</h3>
 
   <p>
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -51,7 +51,7 @@
     <a href="https://github.com/search?q=user%3ATolia-GH+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   </p>
 
-  <h3>🚀 Backend & Database</h3>
+### 🚀 Backend & Database</h3>
 
   <p>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot&logoColor=black"></a>
@@ -68,7 +68,7 @@
     <a href="#"><img alt="Jetty" src="https://img.shields.io/badge/Eclipse%20Jetty-003D72?style=flat&logo=eclipse-jetty&logoColor=white"></a>
   </p>
 
-  <h3>🎨 Frontend & Design</h3>
+### 🎨 Frontend & Design</h3>
 
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -77,7 +77,7 @@
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"></a>
   </p>
 
-  <h3>🧠 Data Science & AI</h3>
+### 🧠 Data Science & AI</h3>
 
   <p>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"></a>
@@ -91,7 +91,7 @@
     <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black"></a>
   </p>
 
-  <h3>🛠️ Development Tools</h3>
+### 🛠️ Development Tools</h3>
 
   <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -114,7 +114,7 @@
 
 <br/>
 
-<h2>🏆 Top owned Repos</h2>
+## 🏆 Top owned Repos</h2>
 
 <div align="center">
   <a href="https://github.com/Tolia-GH/ITMO-PE">
@@ -128,7 +128,7 @@
   </a>
 </div>
 
-<h2>📫 Connect with Me</h2>
+## 📫 Connect with Me</h2>
 
 <div align="center">
   <!-- Replace with your actual links -->
