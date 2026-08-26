@@ -138,7 +138,7 @@
   </a>
 </div>
 
-## 📫 Find Me Somewhere else</h2>
+## 📫 Find Me At
 
 <div align="center">
   <!-- Replace with your actual links -->
