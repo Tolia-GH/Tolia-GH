@@ -138,13 +138,15 @@
   </a>
 </div>
 
-## 📫 Connect with Me</h2>
+## 📫 Find Me Somewhere else</h2>
 
 <div align="center">
   <!-- Replace with your actual links -->
-  <a href="https://github.com/Tolia-GH">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://scholar.google.com/citations?user=kjMKsA4AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
+
+  https://simpleicons.org/icons/googlescholar.svg
   <!-- Example for Email (uncomment and edit if you want to use it)
   <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
