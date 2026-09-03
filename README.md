@@ -8,7 +8,8 @@
 
 ## 🎓 Education
 
-- **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
+- [x] **Bachelor Degree** of Program Engineering at [ITMO University](https://en.itmo.ru/en/).
+- [ ] Master’s student of Artificial Intelegence at [ITMO University](https://en.itmo.ru/en/).
 
 ## 💼 Work Experience
 
